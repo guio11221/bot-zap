@@ -1,0 +1,17 @@
+# Ignorar node_modules
+node_modules
+#Ignorar node-persist
+.node-persist
+#Ignorar .env
+*.env
+#Ignorar arquivo de teste
+test.js
+#Ignorar logs
+*.log
+logs/session/*
+#Ignorar arquivos temporarios
+temp
+#Ignorar DB e etc
+dados
+#Sessão Baileys
+sessao
